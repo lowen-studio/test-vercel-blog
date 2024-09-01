@@ -21,7 +21,7 @@ const config: Config = {
         cyan: "#79FFE1",
       },
       spacing: {
-        28: "7rem",
+        28: "5rem",
       },
       letterSpacing: {
         tighter: "-.04em",
