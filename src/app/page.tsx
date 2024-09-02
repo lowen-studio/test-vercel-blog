@@ -15,8 +15,7 @@ export default function Index() {
     <main>
       <Container>
         <Intro />
-        
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        <MoreStories posts={morePosts} />
       </Container>
     </main>
   );
