@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <h2 className="text-lg md:text-xl leading-tight mb-20 mt-8">
       <Link href="/" className="hover:underline">
-        < Back to Projects
+        Back to Projects
       </Link>
     </h2>
   );
