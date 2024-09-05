@@ -12,9 +12,9 @@
 }
 
 .markdown h2 {
-  @apply text-3xl mt-12 font-semibold mb-4 leading-snug;
+  @apply text-3xl mt-12 font-semibold mb-4 leading-snug max-w-2xl mx-auto;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 font-semibold mb-4 leading-snug;
+  @apply text-2xl mt-8 font-semibold mb-4 leading-snug max-w-2xl mx-auto;
 }
