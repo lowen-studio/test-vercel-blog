@@ -11,6 +11,7 @@ ogImage:
 ---
 
 <Image src="/public/assets/blog/dynamic-routing/cover.jpg" />
+
 ![-](/public/assets/blog/dynamic-routing/cover.jpg "-")
 
 
