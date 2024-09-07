@@ -1,4 +1,6 @@
 import markdownStyles from "./markdown-styles.module.css";
+import Image from "next/image";
+
 
 type Props = {
   content: string;
