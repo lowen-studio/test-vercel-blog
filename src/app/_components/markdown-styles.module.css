@@ -21,4 +21,5 @@
 
 .image {
   @apply mx-auto;
+  @apply w-full;
 }
