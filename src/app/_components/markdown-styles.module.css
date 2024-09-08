@@ -18,3 +18,7 @@
 .markdown h3 {
   @apply text-2xl mt-8 font-semibold mb-4 leading-snug max-w-2xl mx-auto;
 }
+
+.image {
+  @apply mx-auto;
+}
