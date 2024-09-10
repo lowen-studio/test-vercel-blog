@@ -19,6 +19,6 @@
   @apply text-2xl mt-8 font-semibold mb-4 leading-snug;
 }
 
-.Image {
+.img {
   @apply w-full;
 }
