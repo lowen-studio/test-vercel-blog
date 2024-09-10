@@ -11,7 +11,12 @@ const Alert = ({ preview }: Props) => {
     <div className="border-b" >
       <Container>
         <div className="py-4 text-center text-2xl font-bold">
-        SUPERBLOG
+              <a
+                href="/"
+                className="border-b hover:text-teal-300 duration-200 transition-colors"
+              >
+                Superblog
+              </a>
         </div>
       </Container>
     </div>
