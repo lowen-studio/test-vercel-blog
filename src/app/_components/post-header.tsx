@@ -9,9 +9,10 @@ type Props = {
   coverImage: string;
   date: string;
   author: Author;
+  excerpt: string;
 };
-
-export function PostHeader({ title, coverImage, date, author }: Props) {
+  
+export function PostHeader({ title, coverImage, date, author, excerpt }: Props) {
   return (
     <>
       <section className="flex-col md:flex-row flex items-center md:justify-between mt-8 mb-16 md:mb-12">
