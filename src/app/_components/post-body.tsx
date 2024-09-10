@@ -14,10 +14,5 @@ export function PostBody({ content }: Props) {
         dangerouslySetInnerHTML={{ __html: content }}
       />
     </div>
-    <h2 className="text-lg leading-tight mb-20 mt-8">
-      <Link href="/" className="hover:underline">
-        Back to Projects
-      </Link>
-    </h2>
   );
 }
