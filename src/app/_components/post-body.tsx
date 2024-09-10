@@ -10,7 +10,7 @@ export function PostBody({ content }: Props) {
   return (
     <div>
       <div
-        className={markdownStyles["markdown"], w-full}
+        className={markdownStyles["markdown"] w-full}
         dangerouslySetInnerHTML={{ __html: content }}
       />
     </div>
