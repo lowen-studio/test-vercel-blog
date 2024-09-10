@@ -8,11 +8,7 @@ type Props = {
 
 const Alert = ({ preview }: Props) => {
   return (
-    <div
-      className={cn("border-b", {
-        "border-neutral-800",
-      })}
-    >
+    <div className="border-neutral-800" >
       <Container>
         <div className="py-2 text-center text-2xl font-semibold">
         SUPERBLOG
