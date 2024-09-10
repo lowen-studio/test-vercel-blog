@@ -10,7 +10,7 @@ const Alert = ({ preview }: Props) => {
   return (
     <div className="border-b" >
       <Container>
-        <div className="py-6 text-center text-3xl font-bold">
+        <div className="py-4 text-center text-2xl font-bold">
         SUPERBLOG
         </div>
       </Container>
