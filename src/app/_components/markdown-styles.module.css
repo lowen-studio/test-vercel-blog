@@ -1,7 +1,6 @@
 .markdown {
   @apply text-lg leading-relaxed;
   @apply w-full;
-  @apply mx-auto;
 }
 
 .markdown p,
@@ -10,18 +9,16 @@
 .markdown blockquote {
   @apply my-6;
   @apply max-w-2xl;
-  @apply mx-auto;
 }
 
 .markdown h2 {
-  @apply text-3xl mt-12 font-semibold mb-4 leading-snug mx-auto;
+  @apply text-3xl mt-12 font-semibold mb-4 leading-snug;
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 font-semibold mb-4 leading-snug mx-auto;
+  @apply text-2xl mt-8 font-semibold mb-4 leading-snug;
 }
 
-.image {
-  @apply mx-auto;
+.Image {
   @apply w-full;
 }
