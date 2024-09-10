@@ -8,9 +8,9 @@ type Props = {
 
 const Alert = ({ preview }: Props) => {
   return (
-    <div className="border-neutral-800" >
+    <div className="border-b" >
       <Container>
-        <div className="py-2 text-center text-2xl font-semibold">
+        <div className="py-6 text-center text-3xl font-bold">
         SUPERBLOG
         </div>
       </Container>
