@@ -15,7 +15,7 @@ type Props = {
 export function PostHeader({ title, coverImage, date, author, excerpt }: Props) {
   return (
     <>
-      <section className="flex-col md:flex-row flex items-center md:justify-between mt-8 mb-8 md:mb-12">
+      <section className="flex-col md:flex-row flex items-center md:justify-between mt-8 mb-8 md:mb-8">
       <PostTitle>{title}</PostTitle>
       <h4 className="text-left text-xl max-w-xl mt-5 md:pl-8">
         {excerpt}
