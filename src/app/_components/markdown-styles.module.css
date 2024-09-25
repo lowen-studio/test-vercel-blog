@@ -18,5 +18,5 @@
 }
 
 .markdown h6 {
-  @apply max-w-3xl leading-relaxed;
+  @apply max-w-3xl  mx-auto text-left leading-relaxed;
 }
