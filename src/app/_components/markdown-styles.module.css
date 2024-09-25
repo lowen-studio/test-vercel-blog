@@ -16,3 +16,7 @@
 .markdown h3 {
   @apply text-2xl mt-8 font-semibold mb-4 leading-snug;
 }
+
+.markdown h6 {
+  @apply max-w-3xl leading-relaxed;
+}
