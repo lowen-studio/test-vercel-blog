@@ -10,7 +10,7 @@ const Alert = ({ preview }: Props) => {
   return (
     <div className="border-b" >
       <Container>
-        <div className="py-4 text-center text-2xl font-medium">
+        <div className="py-4 text-center text-2xl font-semibold">
               <a
                 href="/"
                 className="hover:border-b duration-200 transition-colors"
