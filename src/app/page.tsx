@@ -15,6 +15,7 @@ export default function Index() {
     <main>
       <Container>
         <Intro />
+        <HeroPost />
         <MoreStories posts={morePosts} />
       </Container>
     </main>
