@@ -25,7 +25,7 @@ export function HeroPost({
     <section>
       <div className="mb-8">
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
         <div>
                   <CoverImage title={title} src={coverImage} slug={slug} />
         </div>
