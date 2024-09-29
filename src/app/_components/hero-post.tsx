@@ -23,9 +23,9 @@ export function HeroPost({
 }: Props) {
   return (
     <section>
-      <div className="mt-8 mb-14">
+      <div className="mt-8 mb-18">
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-10">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         <div>
                   <CoverImage title={title} src={coverImage} slug={slug} />
         </div>
