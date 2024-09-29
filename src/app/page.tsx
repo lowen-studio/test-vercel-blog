@@ -24,7 +24,7 @@ export default function Index() {
           excerpt={heroPost.excerpt}
         />
         
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        <MoreStories posts={morePosts} />
     </main>
   );
 }
